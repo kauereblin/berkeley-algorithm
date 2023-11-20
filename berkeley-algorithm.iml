@@ -7,5 +7,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/out/artifacts/berkeley_algorithm_jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/out/artifacts/berkeley_algorithm_jar" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
