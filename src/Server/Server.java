@@ -1,10 +1,9 @@
+// Autores: Arthur Bezerra Pinotti, Kaue Reblin, Luiz Gustavo Klitzke
 package Server;
 
-import Client.ClientImpl;
-import Client.ClientInterface;
+import Client.*;
 
-import java.rmi.NotBoundException;
-import java.rmi.RemoteException;
+import java.rmi.*;
 import java.rmi.registry.*;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

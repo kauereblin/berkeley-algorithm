@@ -1,3 +1,4 @@
+// Autores: Arthur Bezerra Pinotti, Kaue Reblin, Luiz Gustavo Klitzke
 package Server;
 
 public class Link {
